@@ -7,7 +7,7 @@ A simple PHP-based application to help you build and manage your vocabulary.
 1. **Clone the repository:**
 
     ```shell
-    git clone git@github.com:ashrafulbinharun/Vocabulary-Builder.git
+    git clone git@github.com:Fabdoc27/Vocabulary-Builder.git
     cd Vocabulary-Builder
     ```
 
